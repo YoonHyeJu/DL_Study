@@ -1,3 +1,3 @@
-# project1
+# Deap Learning Study
 
-딥러닝 공부 내용
+Tensorflow를 이용해 공부한 딥러닝 내용입니다.
