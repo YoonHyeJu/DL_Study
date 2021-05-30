@@ -1,3 +1,5 @@
 # Deap Learning Study
 
-Tensorflow를 이용해 공부한 딥러닝 내용입니다.
+It's about deep learning that I studied using Tensorflow during my internship.
+
+Please read Final.pdf if you want to see the organized contents.
